@@ -1,0 +1,37 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uf800": -88
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "evolution:gui/skills.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "evolution:gui/recipes.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "evolution:gui/vault.png",
+      "ascent": 13,
+      "height": 256,
+      "chars": [
+        "\ue003"
+      ]
+    }
+  ]
+}
